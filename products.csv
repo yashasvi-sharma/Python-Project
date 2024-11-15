@@ -1,0 +1,11 @@
+product_id,name,category,price
+101,Smartphone,Electronics,299.99
+102,Headphones,Electronics,49.99
+103,Blender,Home Appliances,29.99
+104,Microwave,Home Appliances,99.99
+105,Running Shoes,Sports,59.99
+106,Treadmill,Sports,499.99
+107,Laptop,Electronics,899.99
+108,Keyboard,Electronics,19.99
+109,Vacuum Cleaner,Home Appliances,129.99
+110,Smartwatch,Electronics,199.99
